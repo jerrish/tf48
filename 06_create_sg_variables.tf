@@ -1,3 +1,4 @@
+/* 
 resource "aws_security_group" "demo_sg" {
   name        = "tf-sg"
   description = "Allow Onpremises server to EC2 Instance"
@@ -28,3 +29,4 @@ resource "aws_security_group" "demo_sg" {
     Name = "tf-sg"
   }
 }
+*/

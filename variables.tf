@@ -1,3 +1,6 @@
+# variables for 06_create_sg_variables.tf file
+
+/*
 variable "onprem_server" {}
 
 variable "rdpport" {
@@ -13,9 +16,4 @@ variable "nfsport" {
 }
 
 variable "tfprotocol" {}
-
-
-#terraform apply --auto-approve --var="onprem_server=10.0.0.10/32"
-#setx TF_VAR_tfprotocol udp
-#Set-Item -Path env:TF_VAR_tfprotocol -Value "udp"
-
+*/
